@@ -1,0 +1,22 @@
+{
+  "name": "desafio-9-bootcamp-repo",
+  "version": "1.0.0",
+  "description": "Generador de README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorecio/Desafio-9-Bootcamp-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorecio/Desafio-9-Bootcamp-repo/issues"
+  },
+  "homepage": "https://github.com/dorecio/Desafio-9-Bootcamp-repo#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
