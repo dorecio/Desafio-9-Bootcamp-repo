@@ -42,7 +42,7 @@ Video demostrativo
 ### Usage examples
 
 Ejecuta en consola o terminal dentro de la carpeta de la aplicación : node index
-![img](/utils/images/img2.png)
+![img](/utils/images/img2.PNG)
 
    
 
@@ -64,8 +64,8 @@ Ejecuta en consola o terminal dentro de la carpeta de la aplicación : node inde
 ## Test
 
   Readme prueba
-  ![img1](/utils/images/img1.png) 
-  ![img2](/utils/images/img2.png)
+  ![img1](/utils/images/img1.PNG) 
+  ![img2](/utils/images/img2.PNG)
     
 ## Questions
 
