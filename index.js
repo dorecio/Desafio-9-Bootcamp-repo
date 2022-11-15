@@ -17,7 +17,7 @@ const questions = [
         name: 'descripcion'
     },
     {
-        type: 'input',
+        type: 'editor',
         message: '¿Cuáles son los pasos necesarios para instalar su proyecto? Proporcione una descripción paso a paso de cómo poner en funcionamiento el entorno de desarrollo ',
         name: 'instalacion'
     },
@@ -33,6 +33,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'Agrege una imagen de ejemplo, coloque el archivo de la imagen en carpeta "utils/images" e inque aqui el nombre del archivo :',
+        name: 'imagen'
+    },
+    {
+        type: 'editor',
         message: '¿Cuáles son las instrucciones sobre las contribuciones? ',
         name: 'contribuciones'
     },
@@ -40,6 +45,16 @@ const questions = [
         type: 'input',
         message: 'Indique las instrucciones para probar su aplicación :  ',
         name: 'pruebas'
+    },
+    {
+        type: 'input',
+        message: 'Agrege una imagen, coloque el archivo de la imagen en carpeta "utils/images" e inque aqui el nombre del archivo :',
+        name: 'img1'
+    },
+    {
+        type: 'input',
+        message: 'Agrege una imagen, coloque el archivo de la imagen en carpeta "utils/images" e inque aqui el nombre del archivo :',
+        name: 'img2'
     },
     {
         type: 'input',
