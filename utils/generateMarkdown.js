@@ -56,7 +56,7 @@ ${data.uso}
 ### Usage examples
 
 ${data.ejemplos}
-![img](./utils/images/${data.imagen})
+![img](/utils/images/${data.imagen})
 
    
 ${renderLicenseSection(data.licencia)}
@@ -68,8 +68,8 @@ ${data.contribuciones}
 ## Test
 
   ${data.pruebas}
-  ![img1](./utils/images/${data.img1}) 
-  ![img2](./utils/images/${data.img2})
+  ![img1](/utils/images/${data.img1}) 
+  ![img2](/utils/images/${data.img2})
     
 ## Questions
 
